@@ -2,7 +2,7 @@
 
 **Research-grade N-of-1 wearable health data analysis**  
 
-We built Vo2, a research-grade N-of-1 wearable health analysis system designed for people to run real experiments on themselves.
+Vo2, a research-grade N-of-1 wearable health analysis system designed for people to run real experiments on themselves.
 
 Most health research is broad, relying on large sample sizes, population averages, and randomized protocols that do not always reflect what works for a specific individual. Vo2 flips that model.
 
@@ -35,5 +35,6 @@ Vo2 converts long-term WHOOP, Oura, and Garmin data into statistically valid per
 ## Authors
 
 - Kai Morales, Daniel Nguyen, Lalit More
+
 
 
