@@ -2,7 +2,12 @@
 
 **Research-grade N-of-1 wearable health data analysis**  
 
-VO2 transforms months of wearable device data (WHOOP, Oura, Garmin) into rigorous N-of-1 studies. Statistical analyses powered by research-grade methods, interpreted by an AI assistant grounded in real sports science literature via RAG.
+We built Vo2, a research-grade N-of-1 wearable health analysis system designed for people to run real experiments on themselves.
+
+Most health research is broad, relying on large sample sizes, population averages, and randomized protocols that do not always reflect what works for a specific individual. Vo2 flips that model.
+
+Vo2 converts long-term WHOOP, Oura, and Garmin data into statistically valid personal studies using changepoint detection, multiple-testing-corrected correlation analysis, and a RAG-based AI assistant grounded in peer-reviewed medical literature. This allows users to identify what actually changes their physiology, not the average person’s.
+
 
 ## What It Does
 
@@ -26,4 +31,9 @@ VO2 transforms months of wearable device data (WHOOP, Oura, Garmin) into rigorou
 ## Code
 
 - Full code has been made private. This repo is just to host a demo video.
+
+## Authors
+
+- Kai Morales, Daniel Nguyen, Lalit More
+
 
