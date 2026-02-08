@@ -96,6 +96,7 @@ main {
 .video-container {
     position: relative;
     width: 100%;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
     border-radius: 0.75rem;
     overflow: hidden;
     border: 1px solid rgba(0, 0, 0, 0.08);
@@ -106,10 +107,13 @@ main {
         0 0 1px rgba(0, 0, 0, 0.12);
 }
 
-video {
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
-    height: auto;
-    display: block;
+    height: 100%;
+    border: none;
 }
 
 @media (max-width: 768px) {
