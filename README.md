@@ -1,6 +1,6 @@
 # Vo2
 
-**Research-grade N-of-1 wearable health data analysis** | 
+**Research-grade N-of-1 wearable health data analysis**  
 
 VO2 transforms months of wearable device data (WHOOP, Oura, Garmin) into rigorous N-of-1 studies. Statistical analyses powered by research-grade methods, interpreted by an AI assistant grounded in real sports science literature via RAG.
 
@@ -26,3 +26,4 @@ VO2 transforms months of wearable device data (WHOOP, Oura, Garmin) into rigorou
 ## Code
 
 - Full code has been made private. This repo is just to host a demo video.
+
