@@ -38,7 +38,8 @@ Vo2 converts long-term WHOOP, Oura, and Garmin data into statistically valid per
 
 ## Awards
 
-- [Conway.ai](conway.ai)'s Best AI for Decision Support Award at Carnegie Mellon University’s TartanHacks 2026.
+- [Conway.ai](https://conway.ai)'s Best AI for Decision Support Award at Carnegie Mellon University’s TartanHacks 2026.
+
 
 
 
