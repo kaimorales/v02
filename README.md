@@ -1,6 +1,6 @@
 # Vo2
 
-#Check out the link on this repo for the demo!
+# Check out the link on this repo for the demo!
 
 **Research-grade N-of-1 wearable health data analysis**  
 
@@ -41,6 +41,7 @@ Vo2 converts long-term WHOOP, Oura, and Garmin data into statistically valid per
 ## Awards
 
 - [Conway.ai](https://conway.ai)'s Best AI for Decision Support Award at Carnegie Mellon University’s TartanHacks 2026.
+
 
 
 
